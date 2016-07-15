@@ -1,0 +1,4 @@
+Compile :-
+g++ -std=c++0x Order.C -o Order;
+Run :-
+Order data.txt
